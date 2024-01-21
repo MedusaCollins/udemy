@@ -1,0 +1,24 @@
+{
+  "name": "qr-code-project",
+  "version": "1.0.0",
+  "description": "qr code project from udemy bootcamp",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MedusaCollins/QR-Code-Project.git"
+  },
+  "author": "Enes Ceylan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MedusaCollins/QR-Code-Project/issues"
+  },
+  "homepage": "https://github.com/MedusaCollins/QR-Code-Project#readme",
+  "dependencies": {
+    "inquirer": "^9.2.10",
+    "qr-image": "^3.2.0"
+  }
+}
